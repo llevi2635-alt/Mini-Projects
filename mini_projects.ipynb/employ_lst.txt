@@ -1,3 +1,0 @@
-152,jaffar,2,mundav
-123,imran,1000000,mange
-123456,irfan,20000000,manager
